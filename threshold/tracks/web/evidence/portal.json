@@ -1,0 +1,31 @@
+{
+  "sessions": {
+    "S-ROOK": {
+      "account": "rook",
+      "organization": "ward-7",
+      "active": true
+    },
+    "S-IBIS": {
+      "account": "ibis",
+      "organization": "ward-9",
+      "active": true
+    },
+    "S-EXPIRED": {
+      "account": "rook",
+      "organization": "ward-7",
+      "active": false
+    }
+  },
+  "documents": {
+    "REC-104": {
+      "organization": "ward-7",
+      "title": "Workshop equipment",
+      "body": "Fictional workshop budget: 3200 credits."
+    },
+    "REC-208": {
+      "organization": "ward-9",
+      "title": "Draft procurement review",
+      "body": "Fictional review draft. Membership in ward-9 is required."
+    }
+  }
+}

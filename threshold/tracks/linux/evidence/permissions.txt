@@ -1,0 +1,17 @@
+Fictional Linux snapshot. No ACLs, capabilities, symlinks, immutable flags, or mandatory-access-control overrides apply. The filesystem is writable. Only the standard mode bits and ownership shown here apply.
+
+drwxr-xr-x root root         /etc
+drwxrwxr-x root contributors /etc/collective
+-rw-r--r-- root root         /etc/collective/publish.conf
+drwxr-xr-x root root         /usr
+drwxr-xr-x root root         /usr/local
+drwxr-xr-x root root         /usr/local/libexec
+-rwxr-xr-x root root         /usr/local/libexec/collective-publish
+drwxr-xr-x root root         /srv
+drwxr-xr-x root root         /srv/collective
+drwxr-xr-x root root         /srv/collective/output
+
+Account: rook
+uid=1001(rook) gid=1001(rook) groups=1001(rook),2000(contributors)
+
+The service is periodically started by a root-owned scheduler. Rook cannot edit the unit, executable, or scheduler.

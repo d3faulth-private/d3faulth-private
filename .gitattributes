@@ -1,2 +1,2 @@
-preview.html linguist-documentation=true
 assets/** linguist-documentation=true
+threshold/tracks/**/evidence/** linguist-vendored=true

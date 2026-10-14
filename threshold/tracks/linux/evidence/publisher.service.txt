@@ -1,0 +1,7 @@
+[Unit]
+Description=Fictional collective publisher
+
+[Service]
+Type=oneshot
+User=root
+ExecStart=/usr/local/libexec/collective-publish

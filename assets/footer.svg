@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="80" viewBox="0 0 900 80" role="img" aria-label="D3FAULTH — Share. Build. Solve.">
-<rect width="900" height="80" fill="#0d1117"/>
-<path d="M0 27C175 86 295-25 470 19S744 77 900 22V80H0Z" fill="#7aa2f7" opacity=".1"/>
-<path d="M0 42C172 90 330 10 507 39S740 83 900 35V80H0Z" fill="#bb9af7" opacity=".09"/>
-<path d="M0 56C173 12 292 80 488 52S733 32 900 58V80H0Z" fill="#161b27"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-labelledby="title">
+<title id="title">D3FAULTH — Freedom. Privacy. Accountability.</title>
+<path d="M0 29Q240 0 500 24T1000 19V90H0Z" fill="#d23a55" opacity=".18"/>
+<path d="M0 38Q250 9 500 32T1000 27V90H0Z" fill="#100d12"/>
+<text x="500" y="64" text-anchor="middle" fill="#bbaab3" font-family="DejaVu Sans Mono,monospace" font-size="10" letter-spacing="2">FREEDOM · PRIVACY · ACCOUNTABILITY</text>
 </svg>

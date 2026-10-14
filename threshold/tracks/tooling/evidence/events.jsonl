@@ -1,0 +1,14 @@
+{"event_id": "a09", "at": "2026-10-01T10:05:00Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "success", "kind": "auth"}
+{"event_id": "a01", "at": "2026-10-01T10:00:00Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "auth"}
+{"event_id": "a02", "at": "2026-10-01T10:03:00Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "auth"}
+{"broken":
+{"event_id": "a03", "at": "2026-10-01T12:04:00+02:00", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "auth"}
+{"event_id": "a02", "at": "2026-10-01T10:03:00Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "success", "kind": "auth"}
+{"event_id": "b09", "at": "2026-10-01T10:05:00Z", "account": "ibis", "source_ip": "203.0.113.9", "outcome": "success", "kind": "auth"}
+{"event_id": "b01", "at": "2026-10-01T10:01:00Z", "account": "ibis", "source_ip": "203.0.113.9", "outcome": "failure", "kind": "auth"}
+{"event_id": "b02", "at": "2026-10-01T10:02:00Z", "account": "ibis", "source_ip": "203.0.113.9", "outcome": "failure", "kind": "auth"}
+{"event_id": "a00", "at": "2026-10-01T09:59:59Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "auth"}
+{"event_id": "a04", "at": "2026-10-01T10:05:00Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "auth"}
+{"event_id": "bad-zone", "at": "2026-10-01T10:04:00", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "auth"}
+{"event_id": "f01", "at": "2026-10-01T10:04:00Z", "account": "rook", "source_ip": "192.0.2.44", "outcome": "failure", "kind": "file"}
+{"event_id": "c01", "at": "2026-10-01T10:04:20Z", "account": "rook", "source_ip": "203.0.113.8", "outcome": "failure", "kind": "auth"}

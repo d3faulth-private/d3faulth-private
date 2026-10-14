@@ -1,0 +1,15 @@
+{
+  "alerts": [
+    {
+      "account": "REPLACE",
+      "source_ip": "REPLACE",
+      "success_event": "REPLACE",
+      "success_utc": "REPLACE",
+      "failure_events": [
+        "REPLACE"
+      ]
+    }
+  ],
+  "invalid_lines": [],
+  "duplicate_lines": []
+}

@@ -1,0 +1,6 @@
+{
+  "service_user": "REPLACE",
+  "writable_directory": "REPLACE",
+  "controlled_file": "REPLACE",
+  "unprivileged_group": "REPLACE"
+}

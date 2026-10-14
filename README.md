@@ -1,39 +1,52 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Hackers · Shared Knowledge · Teamwork" />
+  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Hacktivist · Digital Dissent · Human Rights" />
 </div>
 
 <p align="center">
   <a href="https://github.com/d3faulth-private"><img src="assets/badges/github.svg" height="28" alt="GitHub" /></a>&nbsp;
-  <a href="#about"><img src="assets/badges/hackthebox.svg" height="28" alt="Hack The Box — handle D3FAULTH" /></a>&nbsp;
-  <a href="https://github.com/d3faulth-private?tab=repositories"><img src="assets/badges/projects.svg" height="28" alt="Public projects" /></a>&nbsp;
-  <a href="#building-a-team"><img src="assets/badges/join-team.svg" height="28" alt="Join the team" /></a>
+  <a href="#hack-the-box"><img src="assets/badges/hackthebox.svg" height="28" alt="Hack The Box" /></a>&nbsp;
+  <a href="#contact"><img src="assets/badges/contact.svg" height="28" alt="Contact — details pending" /></a>&nbsp;
+  <a href="threshold/README.md"><img src="assets/badges/threshold.svg" height="28" alt="Enter The Threshold" /></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <a id="about"></a>
 
-## 👨‍💻 About
+## About
 
 ```python
 profile = {
     "handle"   : "D3FAULTH",
-    "role"     : "Invincible",
-    "focus"    : "Shared knowledge · Practical problem-solving",
-    "building" : "Private tools · Shared workflows",
-    "team_os"  : "Anonymous OS · Members-only access planned",
-    "training" : "Hack The Box",
-    "team"     : "Bringing hackers together",
+    "identity" : "Hacker · Hacktivist",
+    "mindset"  : "Invincible",
+    "focus"    : "Digital dissent · Privacy · Accountability",
+    "mission"  : "Human rights · Challenging unjust laws",
+    "building" : "The Collective · Private tools · Anonymous OS",
+    "practice" : "Hack The Box",
 }
 ```
 
-I'm **D3FAULTH** — a hacker bringing other hackers together to share what we know, work through difficult problems, and make tasks easier for each other. We combine our skills, exchange useful information, and build tools that reduce repetitive work.
+I'm **D3FAULTH** — a hacker building a collective around human rights, privacy, and accountability. We bring our skills together to investigate abuse, document evidence, expose corruption, and advocate for changes to unjust laws. Our goal is lasting change through technical work and collective action.
 
-**Hack The Box** is part of our shared practice. We're building **private tools** and **Anonymous OS** for team members, while sharing selected tools, research, and writeups here.
+**Independent minds. Shared purpose.** We exchange methods, build useful tools, and help each other solve difficult problems. Research, evidence, and the work we publish should speak for themselves.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Toolkit & Focus
+## Work & Direction
+
+| Project | Purpose | Status |
+| :-- | :-- | :-- |
+| [Public repositories](https://github.com/d3faulth-private?tab=repositories) | Selected tools and experiments released under D3FAULTH. | Public work |
+| **Anonymous OS** | An amnesic security workstation designed around privacy and session isolation. Distribution is intended for team members. | In development |
+| **Private tools** | Shared utilities to simplify research and repetitive work. | In development |
+| [The Threshold](threshold/README.md) | Five practical assessment tracks for prospective members. | Exercises open · Applications pending |
+
+Anonymous OS and the private toolkit remain in development; release readiness and security validation are ongoing.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## Toolkit & Research
 
 **Core**
 
@@ -64,52 +77,61 @@ I'm **D3FAULTH** — a hacker bringing other hackers together to share what we k
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-
-## 🛡️ Team Tools & Anonymous OS
-
-![Private Tools](assets/badges/private-tools.svg)
-![Anonymous OS](assets/badges/anonymous-os.svg)
-
-- **Private tools:** shared scripts and utilities that simplify research, automate repetitive steps, and help teammates solve problems together.
-- **Anonymous OS:** our custom amnesic security workstation, with privacy and security controls built into its design. Distribution is intended for **team members only**.
-
-**In development.** These are the team's planned capabilities; release readiness and security validation remain work in progress.
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 <a id="building-a-team"></a>
+<a id="the-collective"></a>
 
-## 🏴 Building a Team
+## The Collective
 
-**Team in formation — shared knowledge, combined skills, easier tasks.**
+**A team in formation. A shared commitment to freedom, privacy, and accountability.**
 
-We're bringing hackers together to exchange ideas, compare methods, share useful information, and help each other get unstuck. Everyone brings something different; working together lets us learn faster and avoid repeating the same work.
+We're bringing together hackers, researchers, and builders who can contribute practical expertise and explain their work. We value careful reasoning, constructive collaboration, and respect for the people whose rights we want to protect.
 
-We'll practice on Hack The Box, build shared tools, and collaborate on research in systems we own or have permission to test.
+Our technical practice takes place in designated labs and systems we own or have permission to test. Our wider mission is evidence-led advocacy for human rights and legal reform.
 
-**[Interested in joining? Introduce yourself →](https://github.com/d3faulth-private/d3faulth-private/issues/new?title=Team%20interest)**  
-Share your handle, interests, and usual availability. Introductions through GitHub Issues are public.
+### Entry starts at The Threshold
+
+Choose a specialty, complete an original offline task, and prepare a short writeup. **A correct result earns a review; membership follows a review and an invitation.** Private tools and OS access are granted separately after acceptance.
+
+**[Enter The Threshold →](threshold/README.md)** · [How review works](threshold/REVIEW.md)
+
+The exercises are available now. Private applications will open when the contact channel below is published. Keep your solutions private in the meantime.
+
+<a id="hack-the-box"></a>
+
+### Hack The Box
+
+**Handle: D3FAULTH.** Hack The Box is part of our practical training. Members can compare approaches, learn together, and support their applications with permitted writeups of retired content.
+
+[Explore Hack The Box](https://www.hackthebox.com/) · **Team URL pending.**
+
+<a id="contact"></a>
+
+### Contact
+
+**Private contact details are being prepared.** The email address and HTB team link will appear here once available. Applications and invitations are not open yet.
+
+Please keep application writeups and personal contact details out of public GitHub Issues. Preparing an exercise does not require your real name or any account credentials.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/d3faulth-private">
-    <img src="https://github-stats-extended.vercel.app/api?username=d3faulth-private&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;rank_icon=github" height="175" alt="D3FAULTH GitHub statistics" />
+    <img src="https://github-stats-extended.vercel.app/api?username=d3faulth-private&amp;show_icons=true&amp;hide_border=true&amp;cache_seconds=86400&amp;rank_icon=github&amp;bg_color=100d12&amp;title_color=ee7489&amp;text_color=d8cdd3&amp;icon_color=d23a55" height="175" alt="D3FAULTH GitHub statistics" />
   </a>&nbsp;
   <a href="https://github.com/d3faulth-private">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=d3faulth-private&amp;theme=tokyonight&amp;hide_border=true" height="175" alt="D3FAULTH contribution streak" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=d3faulth-private&amp;theme=dark&amp;hide_border=true&amp;background=100D12&amp;ring=D23A55&amp;fire=EE7489&amp;currStreakLabel=EE7489&amp;sideLabels=D8CDD3&amp;dates=AFA0A9" height="175" alt="D3FAULTH contribution streak" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/d3faulth-private?tab=repositories">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=d3faulth-private&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=86400&amp;langs_count=6" height="145" alt="Languages in D3FAULTH's public repositories" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=d3faulth-private&amp;layout=compact&amp;hide_border=true&amp;cache_seconds=86400&amp;langs_count=6&amp;bg_color=100d12&amp;title_color=ee7489&amp;text_color=d8cdd3" height="145" alt="Languages in D3FAULTH's public repositories" />
   </a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="D3FAULTH — Share. Build. Solve." />
+  <img src="assets/footer.svg" width="100%" alt="D3FAULTH — Freedom. Privacy. Accountability." />
 </div>

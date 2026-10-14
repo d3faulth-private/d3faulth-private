@@ -1,0 +1,5 @@
+#!/bin/bash
+# Evidence only. Do not install or execute this snippet.
+set -euo pipefail
+source /etc/collective/publish.conf
+printf '%s\n' "$PUBLIC_LABEL" > /srv/collective/output/status.txt
