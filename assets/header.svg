@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
 <title id="title">D3FAULTH — Digital Dissent</title>
-<desc id="desc">Hacktivist. Digital dissent. Human rights. Expose corruption. Defend freedom. Challenge unjust laws.</desc>
+<desc id="desc">Digital dissent. Privacy. Human rights. Expose corruption. Defend freedom. Challenge unjust laws.</desc>
 <defs>
   <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#09090d"/><stop offset=".55" stop-color="#171017"/><stop offset="1" stop-color="#09090d"/></linearGradient>
   <linearGradient id="rule"><stop stop-color="#d23a55" stop-opacity="0"/><stop offset=".5" stop-color="#d23a55"/><stop offset="1" stop-color="#d23a55" stop-opacity="0"/></linearGradient>
@@ -16,7 +16,7 @@
 <g font-family="DejaVu Sans,Arial,sans-serif" text-anchor="middle">
   <text x="500" y="118" font-size="58" font-weight="700" letter-spacing="8" fill="#f4edf0">D3FAULTH</text>
   <rect x="217" y="140" width="566" height="1.5" fill="url(#rule)"/>
-  <text x="500" y="172" font-size="13.5" letter-spacing="2.4" fill="#f06c81">HACKTIVIST · DIGITAL DISSENT · HUMAN RIGHTS</text>
+  <text x="500" y="172" font-size="13.5" letter-spacing="2.4" fill="#f06c81">DIGITAL DISSENT · PRIVACY · HUMAN RIGHTS</text>
   <text x="500" y="205" font-size="12" letter-spacing=".4" fill="#baaeb4">Expose corruption. Defend freedom. Challenge unjust laws.</text>
 </g>
 </svg>

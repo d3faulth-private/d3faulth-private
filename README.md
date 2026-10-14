@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Hacktivist · Digital Dissent · Human Rights" />
+  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Digital Dissent · Privacy · Human Rights" />
 </div>
 
 <p align="center">
@@ -18,16 +18,16 @@
 ```python
 profile = {
     "handle"   : "D3FAULTH",
-    "identity" : "Hacker · Hacktivist",
+    "identity" : "Digital Dissident",
     "mindset"  : "Invincible",
     "focus"    : "Digital dissent · Privacy · Accountability",
     "mission"  : "Human rights · Challenging unjust laws",
-    "building" : "The Collective · Private tools · Anonymous OS",
+    "projects" : "The Collective · Private tools · Anonymous OS",
     "practice" : "Hack The Box",
 }
 ```
 
-I'm **D3FAULTH** — a hacker building a collective around human rights, privacy, and accountability. We bring our skills together to investigate abuse, document evidence, expose corruption, and advocate for changes to unjust laws. Our goal is lasting change through technical work and collective action.
+I'm **D3FAULTH** — a digital dissident building a collective around human rights, privacy, and accountability. We bring our skills together to investigate abuse, document evidence, expose corruption, and advocate for changes to unjust laws. Our goal is lasting change through technical work and collective action.
 
 **Independent minds. Shared purpose.** We exchange methods, build useful tools, and help each other solve difficult problems. Research, evidence, and the work we publish should speak for themselves.
 
@@ -38,11 +38,11 @@ I'm **D3FAULTH** — a hacker building a collective around human rights, privacy
 | Project | Purpose | Status |
 | :-- | :-- | :-- |
 | [Public repositories](https://github.com/d3faulth-private?tab=repositories) | Selected tools and experiments released under D3FAULTH. | Public work |
-| **Anonymous OS** | An amnesic security workstation designed around privacy and session isolation. Distribution is intended for team members. | In development |
-| **Private tools** | Shared utilities to simplify research and repetitive work. | In development |
+| **Anonymous OS** | An amnesic security workstation designed around privacy and session isolation. Circulated only within The Collective. | Developed · Invitation only |
+| **Private tools** | Shared utilities to simplify research and repetitive work. Access is restricted to accepted members. | Members only |
 | [The Threshold](threshold/README.md) | Five practical assessment tracks for prospective members. | Exercises open · Applications pending |
 
-Anonymous OS and the private toolkit remain in development; release readiness and security validation are ongoing.
+Anonymous OS is developed and distributed privately to members accepted into The Collective by invitation. Access to the private toolkit is reserved for those members.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -74,6 +74,9 @@ Anonymous OS and the private toolkit remain in development; release readiness an
 ![Crypto](assets/badges/crypto.svg)
 ![Forensics](assets/badges/forensics.svg)
 ![OSINT](assets/badges/osint.svg)
+![SS7 Research](assets/badges/ss7.svg)
+
+**Current interest:** SS7 vulnerability research and telecom signaling security.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -108,7 +111,7 @@ The exercises are available now. Private applications will open when the contact
 
 ### Contact
 
-**Private contact details are being prepared.** The email address and HTB team link will appear here once available. Applications and invitations are not open yet.
+**Private contact details are being prepared.** The email address and HTB team link will appear here once available. Public applications are not open yet.
 
 Please keep application writeups and personal contact details out of public GitHub Issues. Preparing an exercise does not require your real name or any account credentials.
 
