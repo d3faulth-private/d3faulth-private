@@ -27,7 +27,7 @@ profile = {
 }
 ```
 
-I'm **D3FAULTH** — a digital dissident building a collective around human rights, privacy, and accountability. We bring our skills together to investigate abuse, document evidence, expose corruption, and advocate for changes to unjust laws. Our goal is lasting change through technical work and collective action.
+I'm **D3FAULTH** — a digital dissident building a collective around human rights, privacy, and accountability. We bring our skills together to investigate abuse, document evidence, expose corruption, and advocate for changes to unjust laws. We use our skills to defend privacy, expose corruption, and challenge unjust laws.
 
 **Independent minds. Shared purpose.** We exchange methods, build useful tools, and help each other solve difficult problems. Research, evidence, and the work we publish should speak for themselves.
 
@@ -42,7 +42,7 @@ I'm **D3FAULTH** — a digital dissident building a collective around human righ
 | **Private tools** | Shared utilities to simplify research and repetitive work. Access is restricted to accepted members. | Members only |
 | [The Threshold](threshold/README.md) | Five practical assessment tracks for prospective members. | Exercises open · Applications pending |
 
-Anonymous OS is developed and distributed privately to members accepted into The Collective by invitation. Access to the private toolkit is reserved for those members.
+Anonymous OS is distributed privately to members accepted into The Collective by invitation. Access to the private toolkit is reserved for those members.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
