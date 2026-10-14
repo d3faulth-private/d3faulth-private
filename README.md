@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Digital Dissent · Privacy · Human Rights" />
+  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Digital Dissent · Privacy · Human Rights, with an ivory chess queen" />
 </div>
 
 <p align="center">
@@ -76,7 +76,7 @@ Anonymous OS is developed and distributed privately to members accepted into The
 ![OSINT](assets/badges/osint.svg)
 ![SS7 Research](assets/badges/ss7.svg)
 
-**Current interest:** SS7 vulnerability research and telecom signaling security.
+<img src="assets/badges/current-interest.svg" height="24" alt="Current interest:" /> **SS7 vulnerability research and telecom signaling security.**
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
