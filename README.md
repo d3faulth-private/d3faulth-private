@@ -46,35 +46,70 @@ Anonymous OS is distributed privately to members accepted into The Collective by
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## Toolkit & Research
+<a id="toolkit--research"></a>
 
-**Core**
+## Technical Expertise
+
+**Languages & Automation**
 
 ![Python](assets/badges/python.svg)
 ![Bash](assets/badges/bash.svg)
+![Java](assets/badges/java.svg)
+![Rust](assets/badges/rust.svg)
+![Erlang](assets/badges/erlang.svg)
+
+**Systems & Workflow**
+
+![Linux](assets/badges/linux.svg)
+![Anonymous OS](assets/badges/anonymous-os.svg)
+![Docker](assets/badges/docker.svg)
 ![Git](assets/badges/git.svg)
 
-**Environment**
+**Security Research**
 
-![Kali Linux](assets/badges/kali.svg)
-![Linux](assets/badges/linux.svg)
-![Docker](assets/badges/docker.svg)
+![Vulnerability Research](assets/badges/vulnerability-research.svg)
+![Bug Hunting](assets/badges/bug-hunting.svg)
+![Web & API Security](assets/badges/web.svg)
+![Reverse Engineering](assets/badges/reversing.svg)
+![Binary Exploitation](assets/badges/pwn.svg)
+![Exploit Research & Methodology](assets/badges/exploit-research.svg)
 
-**Security Lab**
+**Privacy & Anonymity**
 
-![Hack The Box](assets/badges/hackthebox.svg)
+![Operational Security](assets/badges/opsec.svg)
+![Privacy Engineering](assets/badges/privacy-engineering.svg)
+![Threat Modeling](assets/badges/threat-modeling.svg)
+![Anonymity](assets/badges/anonymity.svg)
+
+**Human Factors & Intelligence**
+
+![Social Engineering Assessments](assets/badges/social-engineering.svg)
+![OSINT](assets/badges/osint.svg)
+![Reconnaissance](assets/badges/reconnaissance.svg)
+
+**Tools & Lab**
+
+![Metasploit](assets/badges/metasploit.svg)
 ![Burp Suite](assets/badges/burp.svg)
 ![Wireshark](assets/badges/wireshark.svg)
+![Hack The Box](assets/badges/hackthebox.svg)
 
-**Research Interests**
+<img src="assets/divider.svg" width="100%" alt="" />
 
-![Web](assets/badges/web.svg)
-![Reverse Engineering](assets/badges/reversing.svg)
-![Pwn](assets/badges/pwn.svg)
-![Crypto](assets/badges/crypto.svg)
-![Forensics](assets/badges/forensics.svg)
-![OSINT](assets/badges/osint.svg)
-![SS7 Research](assets/badges/ss7.svg)
+## Research & Collaboration
+
+### Cryptography & Wallet Recovery
+
+![Cryptography](assets/badges/crypto.svg)
+![Wallet Encryption](assets/badges/wallet-encryption.svg)
+![Key Derivation](assets/badges/key-derivation.svg)
+![Wallet-Format Analysis](assets/badges/wallet-format-analysis.svg)
+![Digital Forensics](assets/badges/forensics.svg)
+![Recovery Research](assets/badges/recovery-research.svg)
+
+We're looking to connect with **cryptographers, Bitcoin Core developers, and digital-forensics specialists** to investigate difficult wallet-recovery problems, review approaches, and develop reproducible research and tools.
+
+We value clear reasoning, practical contributions, and careful handling of sensitive data.
 
 <img src="assets/badges/current-interest.svg" height="24" alt="Current interest:" /> **SS7 vulnerability research and telecom signaling security.**
 
@@ -83,17 +118,15 @@ Anonymous OS is distributed privately to members accepted into The Collective by
 <a id="building-a-team"></a>
 <a id="the-collective"></a>
 
-## The Collective
+## Contribute to The Collective
 
-**A team in formation. A shared commitment to freedom, privacy, and accountability.**
-
-We're bringing together hackers, researchers, and builders who can contribute practical expertise and explain their work. We value careful reasoning, constructive collaboration, and respect for the people whose rights we want to protect.
+Bring a specialty, explain your approach, and help solve challenging problems together. We welcome researchers and builders with expertise in cryptography, reverse engineering, privacy, vulnerability research, and security tooling.
 
 Our technical practice takes place in designated labs and systems we own or have permission to test. Our wider mission is evidence-led advocacy for human rights and legal reform.
 
-### Entry starts at The Threshold
+**Entry begins at The Threshold:** complete an assessment, document your reasoning, and submit your work for review when private applications open. Membership is by invitation.
 
-Choose a specialty, complete an original offline task, and prepare a short writeup. **A correct result earns a review; membership follows a review and an invitation.** Private tools and OS access are granted separately after acceptance.
+Private tools and OS access are granted separately after acceptance.
 
 **[Enter The Threshold →](threshold/README.md)** · [How review works](threshold/REVIEW.md)
 
