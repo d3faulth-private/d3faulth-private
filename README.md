@@ -38,7 +38,7 @@ I'm **D3FAULTH** — a digital dissident building a collective around human righ
 | Project | Purpose | Status |
 | :-- | :-- | :-- |
 | [Public repositories](https://github.com/d3faulth-private?tab=repositories) | Selected tools and experiments released under D3FAULTH. | Public work |
-| **Anonymous OS** | An amnesic security workstation designed around privacy and session isolation. Circulated only within The Collective. | Developed · Invitation only |
+| **Anonymous OS** | An amnesic security workstation designed around privacy and session isolation. Circulated only within The Collective. | Invitation only |
 | **Private tools** | Shared utilities to simplify research and repetitive work. Access is restricted to accepted members. | Members only |
 | [The Threshold](threshold/README.md) | Five practical assessment tracks for prospective members. | Exercises open · Applications pending |
 
