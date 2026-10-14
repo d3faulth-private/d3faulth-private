@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Digital Dissent · Privacy · Human Rights, with an ivory chess queen" />
+  <img src="assets/header.svg" width="100%" alt="D3FAULTH — Privacy · Human Rights · Dissent, with an emerald crystal chess queen" />
 </div>
 
 <p align="center">
