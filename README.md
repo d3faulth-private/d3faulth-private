@@ -27,8 +27,7 @@ profile = {
 }
 ```
 
-I'm **D3FAULTH** — a digital dissident building a collective for privacy, human rights, and accountability.
-
+I'm **D3FAULTH** — a digital dissident building .
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Work & Direction
