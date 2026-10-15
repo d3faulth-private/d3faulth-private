@@ -27,7 +27,7 @@ profile = {
 }
 ```
 
-I'm **D3FAULTH** — a digital dissident building .
+I'm **D3FAULTH** — a digital dissident .
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Work & Direction
