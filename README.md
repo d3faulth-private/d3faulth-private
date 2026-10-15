@@ -27,9 +27,7 @@ profile = {
 }
 ```
 
-I'm **D3FAULTH** — a digital dissident building a collective around human rights, privacy, and accountability. We bring our skills together to investigate abuse, document evidence, expose corruption, and advocate for changes to unjust laws. We use our skills to defend privacy, expose corruption, and challenge unjust laws.
-
-**Independent minds. Shared purpose.** We exchange methods, build useful tools, and help each other solve difficult problems. Research, evidence, and the work we publish should speak for themselves.
+I'm **D3FAULTH** — a digital dissident building a collective for privacy, human rights, and accountability.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -52,47 +50,47 @@ Anonymous OS is distributed privately to members accepted into The Collective by
 
 **Languages & Automation**
 
-![Python](assets/badges/python.svg)
-![Bash](assets/badges/bash.svg)
-![Java](assets/badges/java.svg)
-![Rust](assets/badges/rust.svg)
-![Erlang](assets/badges/erlang.svg)
+[![Python](assets/badges/python.svg)](https://www.python.org/)
+[![Bash](assets/badges/bash.svg)](https://www.gnu.org/software/bash/)
+[![Java](assets/badges/java.svg)](https://dev.java/)
+[![Rust](assets/badges/rust.svg)](https://rust-lang.org/)
+[![Erlang](assets/badges/erlang.svg)](https://www.erlang.org/)
 
 **Systems & Workflow**
 
-![Linux](assets/badges/linux.svg)
-![Anonymous OS](assets/badges/anonymous-os.svg)
-![Docker](assets/badges/docker.svg)
-![Git](assets/badges/git.svg)
+[![Linux](assets/badges/linux.svg)](https://www.kernel.org/)
+[![Anonymous OS](assets/badges/anonymous-os.svg)](#work--direction)
+[![Docker](assets/badges/docker.svg)](https://docs.docker.com/)
+[![Git](assets/badges/git.svg)](https://git-scm.com/docs)
 
 **Security Research**
 
-![Vulnerability Research](assets/badges/vulnerability-research.svg)
-![Bug Hunting](assets/badges/bug-hunting.svg)
-![Web & API Security](assets/badges/web.svg)
-![Reverse Engineering](assets/badges/reversing.svg)
-![Binary Exploitation](assets/badges/pwn.svg)
-![Exploit Research & Methodology](assets/badges/exploit-research.svg)
+[![Vulnerability Research](assets/badges/vulnerability-research.svg)](https://cwe.mitre.org/)
+[![Bug Hunting](assets/badges/bug-hunting.svg)](https://portswigger.net/web-security)
+[![Web & API Security](assets/badges/web.svg)](https://owasp.org/projects/web-security-testing-guide)
+[![Reverse Engineering](assets/badges/reversing.svg)](https://github.com/NationalSecurityAgency/ghidra)
+[![Binary Exploitation](assets/badges/pwn.svg)](https://pwn.college/program-security/)
+[![Exploit Research & Methodology](assets/badges/exploit-research.svg)](https://pwn.college/software-exploitation/)
 
 **Privacy & Anonymity**
 
-![Operational Security](assets/badges/opsec.svg)
-![Privacy Engineering](assets/badges/privacy-engineering.svg)
-![Threat Modeling](assets/badges/threat-modeling.svg)
-![Anonymity](assets/badges/anonymity.svg)
+[![Operational Security](assets/badges/opsec.svg)](https://ssd.eff.org/)
+[![Privacy Engineering](assets/badges/privacy-engineering.svg)](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering)
+[![Threat Modeling](assets/badges/threat-modeling.svg)](https://community.owasp.org/Threat_Modeling)
+[![Anonymity](assets/badges/anonymity.svg)](https://www.torproject.org/)
 
 **Human Factors & Intelligence**
 
-![Social Engineering Assessments](assets/badges/social-engineering.svg)
-![OSINT](assets/badges/osint.svg)
-![Reconnaissance](assets/badges/reconnaissance.svg)
+[![Social Engineering Assessments](assets/badges/social-engineering.svg)](https://www.social-engineer.org/framework/)
+[![OSINT](assets/badges/osint.svg)](https://www.bellingcat.com/category/resources/how-tos/)
+[![Reconnaissance](assets/badges/reconnaissance.svg)](https://nmap.org/book/man-host-discovery.html)
 
 **Tools & Lab**
 
-![Metasploit](assets/badges/metasploit.svg)
-![Burp Suite](assets/badges/burp.svg)
-![Wireshark](assets/badges/wireshark.svg)
-![Hack The Box](assets/badges/hackthebox.svg)
+[![Metasploit](assets/badges/metasploit.svg)](https://www.metasploit.com/)
+[![Burp Suite](assets/badges/burp.svg)](https://portswigger.net/burp)
+[![Wireshark](assets/badges/wireshark.svg)](https://www.wireshark.org/)
+[![Hack The Box](assets/badges/hackthebox.svg)](https://www.hackthebox.com/)
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
